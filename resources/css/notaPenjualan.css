@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.left-column {
+    width: 50%;
+}
+
+.right-column {
+    width: 50%;
+}
+
+.centered {
+    text-align: center;
+}
+
+.bottom-right {
+    text-align: right;
+    margin-top: 50px;
+}
